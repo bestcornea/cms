@@ -4,6 +4,11 @@ export default {
   type: 'document',
   fields: [
     {
+      name: 'order',
+      title: 'Order',
+      type: 'string',
+    },
+    {
       name: 'slug',
       title: 'Slug',
       type: 'slug',
@@ -18,6 +23,11 @@ export default {
       type: 'string',
     },
     {
+      name: 'leaden',
+      title: 'English Lead',
+      type: 'string',
+    },
+    {
       name: 'bodyen',
       title: 'English Body',
       type: 'markdown',
@@ -28,6 +38,11 @@ export default {
       type: 'string',
     },
     {
+      name: 'leadnl',
+      title: 'Dutch Lead',
+      type: 'string',
+    },
+    {
       name: 'bodynl',
       title: 'Dutch Body',
       type: 'markdown',
@@ -35,6 +50,11 @@ export default {
     {
       name: 'titlefr',
       title: 'French Title',
+      type: 'string',
+    },
+    {
+      name: 'leadfr',
+      title: 'French Lead',
       type: 'string',
     },
     {
