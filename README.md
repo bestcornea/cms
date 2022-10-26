@@ -21,4 +21,5 @@ the [bestcornea.eu](https://bestcornea.eu/) website by non-technical users.
 ## Questions? 🤯
 
 For questions about this repository, code, or deployments, 
+[create and issue](https://github.com/bestcornea/cms/issues) or
 contact [joostdecock](https://github.com/joostdecock/).
