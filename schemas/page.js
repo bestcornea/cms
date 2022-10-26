@@ -4,22 +4,13 @@ export default {
   type: 'document',
   fields: [
     {
-      name: 'order',
-      title: 'Order',
+      name: 'titleen',
+      title: 'English Title',
       type: 'string',
     },
     {
-      name: 'slug',
-      title: 'Slug',
-      type: 'slug',
-      options: {
-        source: 'titleen',
-        maxLength: 96,
-      },
-    },
-    {
-      name: 'titleen',
-      title: 'English Title',
+      name: 'linktitleen',
+      title: 'English Link Title (shorter)',
       type: 'string',
     },
     {
@@ -38,6 +29,11 @@ export default {
       type: 'string',
     },
     {
+      name: 'linktitlenl',
+      title: 'Dutch Link Title (shorter)',
+      type: 'string',
+    },
+    {
       name: 'leadnl',
       title: 'Dutch Lead',
       type: 'string',
@@ -53,6 +49,11 @@ export default {
       type: 'string',
     },
     {
+      name: 'linktitlefr',
+      title: 'French Link Title (shorter)',
+      type: 'string',
+    },
+    {
       name: 'leadfr',
       title: 'French Lead',
       type: 'string',
@@ -61,6 +62,20 @@ export default {
       name: 'bodyfr',
       title: 'French Body',
       type: 'markdown',
+    },
+    {
+      name: 'order',
+      title: 'Order',
+      type: 'string',
+    },
+    {
+      name: 'slug',
+      title: 'Slug',
+      type: 'slug',
+      options: {
+        source: 'titleen',
+        maxLength: 96,
+      },
     },
   ],
 }
