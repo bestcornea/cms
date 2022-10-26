@@ -1,11 +1,24 @@
-# Sanity Blogging Content Studio
+# BEST Cornea
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+The Belgian Endothelial Surgical Transplant of the Cornea Study (BEST Cornea)
+is a collaboration between corneal surgeons, tissue bankers, and patients.
 
-Now you can do the following things:
+The Chief Investigator of the BEST Cornea study is [Prof. Dr. Sorcha Ní
+Dhubhghaill](https://be.linkedin.com/in/sorcha-n%C3%AD-dhubhghaill) of Antwerp
+University Hospital.
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- Check out the example frontend: [React/Next.js](https://github.com/sanity-io/tutorial-sanity-blog-react-next)
-- [Read the blog post about this template](https://www.sanity.io/blog/build-your-own-blog-with-sanity-and-next-js?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+For more info about the BEST Cornea study, please refer to
+[bestcornea.eu](https://bestcornea.eu/).
+
+## What am I looking at? 🤔
+
+This is an instance of the [sanity.io](https://www.sanity.io/) studio.
+
+This instance is deployed at [edit.bestcornea.eu](https://edit.bestcornea.eu/). 
+Its purpose is to allow editing of the content of 
+the [bestcornea.eu](https://bestcornea.eu/) website by non-technical users.
+
+## Questions? 🤯
+
+For questions about this repository, code, or deployments, 
+contact [joostdecock](https://github.com/joostdecock/).
